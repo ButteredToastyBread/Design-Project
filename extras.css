@@ -1,0 +1,53 @@
+.header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    border: black 3px solid;
+    height: 150px;
+    width: 100%;
+    margin: 0px;
+    background-image: linear-gradient(yellow, black);
+}
+.title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.text{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.button{
+    width: 200px;
+    height: 50px;
+    border: 3px solid black;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    bottom: 500px;
+    left: 0px;
+    position: absolute;
+}
+.button1{
+    width: 200px;
+    height: 50px;
+    border: 3px solid black;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 500px;
+    text-align: center;
+    
+}
+.extratext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.ideas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
